@@ -6,6 +6,6 @@
 
 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=basri07.visitor-badge&left_color=red&right_color=green) 
-## YılanAktif olduğum günleri yiyor
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=basri07.visitor-badge&left_color=darkgreen&right_color=purple) 
+## Yılan aktif olduğum günleri yiyor
 ![snake gif](https://github.com/basri07/basri07/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
