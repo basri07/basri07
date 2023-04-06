@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @basriche
 - 👀 interested in programming
 - 🌱 currently learning  .NET,SQL,PYTHON
-- :mortar_board: I'm a master’s degree student
+- :mortar_board: I have master's degree
 - ❤️ I like to code optimization problems
 
 
