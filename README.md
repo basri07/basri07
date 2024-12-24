@@ -9,7 +9,7 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=basri07.visitor-badge&left_color=darkgreen&right_color=purple) 
 ## The snake is eating my contributions
-![snake gif](https://github.com/basri07/basri07/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![snake gif](https://github.com/basri07/basri07/blob/output/github-contribution-grid-snake.svg)
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=basri07&show_icons=true&theme=radical)](https://github.com/basri07/github-readme-stats)
 
